@@ -1,0 +1,12 @@
+{
+  "resourceName": "bdsp23AmplifyReactGraphql",
+  "policyUUID": "31de0ea1",
+  "bucketName": "bdsp23amplifyreactgraphql23d1dc7ec8d24545b5b",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
